@@ -9,3 +9,4 @@
 
 **![Mapa de Transporte en la Ciudad de México (Movilidad Integrada)](img/jorge-marquez-piedra.png)**
 
+**![Mapa de Transporte en la Ciudad de México (Movilidad Integrada) Ecobici](img/jorge-marquez-piedra-2.png)**
